@@ -1,16 +1,10 @@
-**Hola mundo** 
-
-*Hola muy buenas tardes*
-
-~~Algo tachado~~
-
-_Este texto es muy importante_ 
-
+**Hola mundo**   
+*Hola muy buenas tardes*  
+~~Algo tachado~~  
+_Este texto es muy importante_  
 <sub>Subescrito</sub>
-<sup>Supescrito</sup>
+<sup>Supescrito</sup>  
+> Entre comillar texto  
 
-> Entre comillar texto
+[Esto es un vinculo](https://www.google.es)  
 
-[Esto es un vinculo](https://www.google.es)
-
-dsadfadfadf
